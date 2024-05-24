@@ -32,8 +32,7 @@ Run the application using the following command:
 ```sh
 python main.py
 
-##How to Use:
-
+How to Use:
 Register:
 Enter your username and email.
 Click on the "Register" button.
