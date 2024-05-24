@@ -1,17 +1,17 @@
-# BusPass-App
+BusPass-App
 BusPassApp is a Kivy-based application for handling user registration and bus pass applications. The app provides a simple interface for users to enter their details, register, and apply for bus passes.
 
-## Features
+Features
 - User Registration
 - Bus Pass Application
 - Input Validation
 - User Feedback
 
-## Requirements
+Requirements
 - Python 3.x
 - Kivy 2.0.0 or higher
 
-## Installation
+Installation
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/BusPassApp.git
@@ -27,7 +27,7 @@ BusPassApp is a Kivy-based application for handling user registration and bus pa
     pip install kivy
     ```
 
-## Usage
+Usage
 Run the application using the following command:
 ```sh
 python main.py
